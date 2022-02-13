@@ -1,0 +1,30 @@
+{
+    "name": "funkcja",
+    "version": "0.0.1",
+    "description": "Log function body and name to browser's console.",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc"
+    },
+    "bugs": {
+        "url": "https://gitlab.com/jmaczan/funkcja/-/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://gitlab.com/jmaczan/funkcja.git"
+    },
+    "keywords": [
+        "javascript",
+        "console",
+        "console.log",
+        "log",
+        "function"
+    ],
+    "author": "Jedrzej Pawel Maczan <jedrzejpawel@maczan.pl>",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^9.4.6",
+        "typescript": "^2.7.2"
+    }
+}
