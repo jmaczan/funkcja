@@ -1,6 +1,6 @@
 {
     "name": "funkcja",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "description": "Log function body and name to browser's console.",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
