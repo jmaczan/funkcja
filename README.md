@@ -2,7 +2,7 @@
 
 Log function body and name to browser's console.
 
-[<img src="funkcja.png" max-height="300">](funkcja)
+<img src="funkcja.png" max-height="300">
 
 ## Usage
 ```JS
