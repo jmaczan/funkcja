@@ -1,8 +1,8 @@
+<p align="center"><img width="150" src="funkcjalogo.png" alt="funkcja logo"></p>
+
 # `funkcja`
 
 Log function body and name to browser's console.
-
-<img src="https://gitlab.com/jmaczan/funkcja/-/raw/main/funkcja.png" max-height="300">
 
 ## Usage
 ```JS
